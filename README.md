@@ -1,10 +1,11 @@
 # linux_all_basic_and_advance_commands
+
 List all the files and directories in present directory with different flags
 ```bash
   ls #list the files
 ```
 ```bash
-  ls -l #List fiels with more information like permissions info
+  ls -l #List files with more information like permissions info
 ```
 ```bash
   ls -a #List the hidden files also with additional info
